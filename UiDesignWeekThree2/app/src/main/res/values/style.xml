@@ -11,7 +11,7 @@
     <style name="checkout_text_appearance">
         <item name="android:fontFamily">@font/merriweather</item>
         <item name="android:textSize">28sp</item>
-        <item name="android:textColor">@color/textDecoration</item>
+
     </style>
     <style name="deliver_to">
         <item name="android:textSize">22sp</item>
@@ -31,7 +31,7 @@
     <style name="place_order">
         <item name="android:textSize">18sp</item>
         <item name="android:fontFamily">@font/merriweather</item>
-        <item name="android:color">@color/white</item>
+
 
     </style>
 

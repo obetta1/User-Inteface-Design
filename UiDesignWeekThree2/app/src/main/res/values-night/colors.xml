@@ -5,13 +5,15 @@
     <color name="purple_700">#FF3700B3</color>
     <color name="teal_200">#FF03DAC5</color>
     <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="backgroundWhite">#535252</color>
-    <color name="textDecoration">#FFFFFFFF</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF0000</color>
+    <color name="backgroundWhite">#000000</color>
+    <color name="white">#69515D</color>
     <color name="roundButton">#FFFFFFFF</color>
-    <color name="bigCardColor">#222020</color>
+    <color name="bigCardColor">#ffffff</color>
     <color name="buttonColor1">#FF6200EE</color>
     <color name="buttoncolor2">#FF6200EE</color>
-    <color name="textColor">#FFFFFFFF</color>
+    <color name="textColor">#3E4462</color>
+    <color name="textDecoration">#69515D</color>
+    <color name="smallcardcolor">#DADAcd</color>
+    <color name="checkColor">#ffffff</color>
 </resources>

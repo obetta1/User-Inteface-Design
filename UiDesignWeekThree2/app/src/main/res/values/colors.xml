@@ -12,6 +12,9 @@
     <color name="bigCardColor">#FFFFFFFF</color>
     <color name="buttonColor1">#E4F4FF</color>
     <color name="buttoncolor2">#DFF1FF</color>
+    <color name="smallcardcolor">#F5F5F5</color>
     <color name="textColor">#3E4462</color>
     <color name="textDecoration">#69515D</color>
+    <color name="checkColor">#6F5E67</color>
+
 </resources>

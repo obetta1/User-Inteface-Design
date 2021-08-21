@@ -45,10 +45,11 @@ toggle switch for night mode-->
             android:layout_height="wrap_content"
             android:layout_marginTop="-39dp"
             android:textAppearance="@style/checkout_text_appearance"
-            android:text="@string/checkout"
+            android:text="@string/test"
             android:textAlignment="center"
             android:textColor="@color/checkColor"
-
+            android:textSize="24sp"
+            android:textStyle="bold"
             />
 
     </LinearLayout>

@@ -17,4 +17,5 @@
     <string name="item_total_fee">$1000</string>
     <string name="place_order">Place Order</string>
     <string name="mode">Mode</string>
+    <string name="test">Testing the microphone</string>
 </resources>
